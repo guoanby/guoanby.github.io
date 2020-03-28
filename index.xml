@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Study by the way | Study by the way</title>
-        <link>http://example.org/</link>
+        <link>http://www.guoan.com/</link>
         <description>Study by the way | Study by the way</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://example.org/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://www.guoan.com/" rel="self" type="application/rss+xml" /></channel>
 </rss>
